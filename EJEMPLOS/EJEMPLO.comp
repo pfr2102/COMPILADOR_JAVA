@@ -1,0 +1,17 @@
+INT EDAD= 34;
+FLOAT B = 5.7;
+STRING M = "ERES_MAYOR";
+STRING H = "HOLA_MUNDO";
+
+IF(EDAD >= 34){
+     WHILE(EDAD>70){ 
+        INPUT("3RA_EDAD");
+        EDAD++;
+     }		
+}
+
+WHILE(100>56){ 
+    FOR(i IN RANGE(1,400)){
+	B=50*8;
+    }	
+}

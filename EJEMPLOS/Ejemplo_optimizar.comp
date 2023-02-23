@@ -1,0 +1,14 @@
+INT EDAD = 34 * 8 + 5 / 8;
+FLOAT B = 8 * 0 + 1 * 2 * 3;
+EDAD = 10 - 0 + 4*5;
+INT H = 7-3/8+5*1;
+STRING M = "ERES_MAYOR";
+int x = 5 * 0 + 5 / 2;
+
+INPUT("KIUBO");
+
+IF (EDAD>5*8){}
+
+WHILE(100>50 - 1){ 
+   //instrucciones
+}
