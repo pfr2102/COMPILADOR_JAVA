@@ -11,6 +11,6 @@ Descripción:
 
 Video:
 
-[![Alt text](https://youtu.be/2d-R9ufWMH0)
+[![Alt text](https://img.youtube.com/vi/2d-R9ufWMH0/0.jpg)](https://youtu.be/2d-R9ufWMH0)
 
-(https://youtu.be/2d-R9ufWMH0)
+(https://www.youtube.com/watch?v=2d-R9ufWMH0&ab_channel=PEDROFIGUEROARUIZ)
